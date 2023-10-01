@@ -47,3 +47,16 @@
     opacity: 1;
     transition-delay: 0.044s;
 }
+
+@media (max-width: 622px){
+     .main__box{
+         width: 80%;
+         padding: 17px;
+         border-radius: 50px;
+         margin-bottom: 8px;
+     }  
+    .main__div {
+        margin-top: 54%;
+    }
+}
+
