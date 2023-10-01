@@ -12,7 +12,9 @@
     z-index: 34;
 }
 
-
+.header__logo{
+    color: rgb(179,180,211);
+}
 
 
 
@@ -43,7 +45,7 @@
 
     position: relative;
     font-size: 1.1em;
-    color: rgb(0, 0, 0);
+    color: rgb(179, 180, 211);
     text-decoration: none;
     font-weight: 500;
     margin-left: 40px;
